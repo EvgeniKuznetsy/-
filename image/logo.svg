@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="159.96132mm"
+   height="50.114929mm"
+   viewBox="0 0 159.96132 50.114929"
+   version="1.1"
+   id="svg1221"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="24.190475"
+   inkscape:export-ydpi="24.190475"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1223"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1218" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.293775,-147.74899)">
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.27126;stroke-dasharray:none;stroke-opacity:1"
+       id="path392"
+       cx="66.02356"
+       cy="172.80646"
+       rx="21.594154"
+       ry="23.921843" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.2073px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.214958;stroke-dasharray:none;stroke-opacity:1"
+       x="97.359421"
+       y="184.584"
+       id="text1110"
+       transform="scale(0.97139306,1.0294494)"><tspan
+         sodipodi:role="line"
+         id="tspan1108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.2073px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.214959"
+         x="97.359421"
+         y="184.584">МЕГА</tspan></text>
+  </g>
+</svg>

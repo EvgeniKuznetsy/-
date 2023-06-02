@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Aegean';
+    src: url('Aegean-8jJ2.ttf');
+    font-weight: normal;
+    font-size: 18px;
+}
+
+
+*{
+    
+    font-family: Aegean;
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(149, 149, 238);
+}
+
+header{
+    max-width: 100vw;
+    height: 300px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 30px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.nav-link{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+.nav-link a{
+   margin-right: 10px;
+}
+.logo{
+    max-width: 400px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.reg{
+    width: auto;
+    margin-left: 45%;
+    margin-right: 45%;
+
+}
+.reg .input{
+    min-height: 15px;
+    min-width: 200px;
+}
+.reg .center{
+    
+    padding: 12px;
+    margin-left: 35px;
+
+}
+
+.reg .checkbox{
+    
+    min-width: 300px;
+    width: 100%;
+    margin: 10px;
+}
+
+.out{
+    font-family: Aegean;
+    font-size: 22px;
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+.container{
+    margin-left: 20%;
+    margin-right: 20%;
+    min-width: 500px;
+
+}
+img{
+    max-width: 300px;
+}
+.block {
+    max-width: 300px;
+}
+.block .text{
+    
+    text-align: center;
+}
+.text-center{
+    width: 100%;
+    text-align: center;margin-bottom: 50px;
+}
